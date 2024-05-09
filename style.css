@@ -1,0 +1,25 @@
+body {
+    padding: 15px;
+}
+
+.card {
+    border: 1px solid rgb(113, 112, 112);
+    border-radius: 7px;
+    width: 250px;
+    height: 100px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin: 10px;
+}
+
+.card-items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 10px;
+}
+
+.card>.title {
+    text-align: center;
+    margin: 0px;
+    border-bottom: 1px solid rgb(113, 112, 112);
+}
