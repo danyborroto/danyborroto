@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 | --- | --- | --- | ---|
 
 ## More about me
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyborroto&show_icons=true&locale=en&layout=compact&count_private=true" alt="danyborroto" /></p><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyborroto&count_private=true&layout=compact&locale=en" alt="danyborroto" /></p><br><br>
 <p align="center">&nbsp;<img style="display: table-cell; vertical-align: middle;" align="center" src="https://github-readme-stats.vercel.app/api?username=danyborroto&show_icons=true&locale=en" alt="danielespanadero" /></p>
