@@ -48,6 +48,11 @@ Here are some ideas to get you started:
 | <img title="NetBeans" alt="NetBeans" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> | <img title="VSCode" alt="VSCode" width="55px" src="https://chris-ayers.com/assets/images/vscode-logo.png"> | <img title="Git" alt="Git" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"> | <img title="SceneBuilder" alt="SceneBuilder" width="55px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"> |
 | --- | --- | --- | ---|
 
-## More about me
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyborroto&count_private=true&layout=compact&locale=en" alt="danyborroto" /></p><br><br>
-<p align="center">&nbsp;<img style="display: table-cell; vertical-align: middle;" align="center" src="https://github-readme-stats.vercel.app/api?username=danyborroto&show_icons=true&locale=en" alt="danielespanadero" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/danyborroto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danyborroto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danyborroto&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
