@@ -1,52 +1,28 @@
 <h1 align="center">Hi there👋, I'm Daniel Borroto</h1>
 <h3 align="center">A programmer from Cienfuegos (Cuba 🇨🇺)</h3>
 
-<!--
-**danyborroto/danyborroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
->[!NOTE]
->hola
-
->[!TIP]
->hola
-
->[!IMPORTANT]
->hola
-
->[!CAUTION]
->hola
-
->[!WARNING]
->hola
-
--->
 ## 💻 &nbsp;Technologies
-### 💬 &nbsp;Languages
-|<img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> | <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|
-|---|---|---|---|
+### 📋 &nbsp;Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗃️ &nbsp;Databases
-|<img title="PostgreSQL" alt="PostgreSQL" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">|<img title="SQLite" alt="SQLite" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png">|
-|---|---|
 
-### 🧩 &nbsp;Frameworks and Libraries
-|<img title="Express" alt="Express" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"> | <img title="React" alt="React" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> |
-|---|---|
+### 💾 &nbsp;Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📚 &nbsp;Frameworks and Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🛠️ &nbsp;Tools
-| <img title="NetBeans" alt="NetBeans" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> | <img title="VSCode" alt="VSCode" width="55px" src="https://chris-ayers.com/assets/images/vscode-logo.png"> | <img title="Git" alt="Git" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"> | <img title="SceneBuilder" alt="SceneBuilder" width="55px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1"> |
-| --- | --- | --- | ---|
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
