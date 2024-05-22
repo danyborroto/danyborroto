@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Daniel Borroto</h1>
 <h3 align="center">A programmer from Cienfuegos (Cuba 🇨🇺)</h3>
-
+    
 ## 💻 &nbsp;Technologies
 ### 📋 &nbsp;Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,9 +26,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/danyborroto">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danyborroto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danyborroto&layout=compact&langs_count=8&theme=algolia">
   </a>
-</p>
+</div>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=danyborroto&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
